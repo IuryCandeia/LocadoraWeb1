@@ -1,2 +1,2 @@
-# Disciplina ministrada pela universidade 
+# Programa desenvolvido na universidade. 
 LocadoraWeb1
